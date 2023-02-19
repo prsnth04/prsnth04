@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<p>My name is Prasanth Periyannan, I'm a Senior QA engineer based in Coventry, UK with 10 years of diverse experience in the Manual and Automation Testing. 
+			I have been involved in testing ERP and web applications both manually and automated I maintain a passion for technology and solving problem using it get the most out of it by using appropriate tools, techniques, and strategies<p>
+
 <!--
 **prsnth04/prsnth04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
